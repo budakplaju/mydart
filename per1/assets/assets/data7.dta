@@ -11,3 +11,6 @@ no,kelas,pertemuan,filedata,judul,deskripsi
 4,SI2A,2,data4.dta,Daftar bonus 2,bonus di berikan untuk 10 orang tercepat kumpul tugas bonus
 5,SI2A,2,data5.dta,Daftar bonus 3,bonus di berikan untuk semua yang kumpul tugas 1
 1,SI2KR,2,data1.dta,Daftar Absen,daftar list absensi kehadiran
+2,SI2KR,2,data2.dta,Daftar bonus 1,bonus di berikan untuk 5 orang tercepat KUMPUL tugas
+3,SI2KR,2,data3.dta,Daftar Pengumpul Tugas 1,membuat resume namanya sama dgn bonus 3
+5,SI2KR,2,data5.dta,Daftar bonus 3,bonus di berikan untuk semua yang kumpul tugas 1
